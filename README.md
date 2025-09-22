@@ -1,8 +1,5 @@
 # TestAPI for Backend Task
-
-README.md file in your GitHub repository with:
-Reason (if any) of not using the suggested framework, library, design, etc. 
-Explain how to run your solution and any assumptions made. 
+Information as requested
 
 ## How to Run
 
