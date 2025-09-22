@@ -23,7 +23,7 @@ builder.Services.AddScoped<RoomService>();
 builder.Services.AddScoped<IBookingRepository, BookingRepository>();
 builder.Services.AddScoped<BookingService>();
 
-// make them lowercase
+// make route name lowercase
 builder.Services.AddRouting(options => options.LowercaseUrls = true);
 
 var app = builder.Build();
