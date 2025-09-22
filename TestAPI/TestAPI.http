@@ -1,0 +1,10 @@
+@TestAPI_HostAddress = https://localhost:44320
+
+GET {{TestAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{TestAPI_HostAddress}}/api/room
+
+###

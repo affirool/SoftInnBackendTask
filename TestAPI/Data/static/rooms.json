@@ -1,0 +1,122 @@
+[
+  {
+    "Id": 1837461823,
+    "Name": "Orchid 101",
+    "Type": "Single",
+    "IsAvailable": true
+  },
+  {
+    "Id": 1248937465,
+    "Name": "Orchid 102",
+    "Type": "Double",
+    "IsAvailable": false
+  },
+  {
+    "Id": 2019384756,
+    "Name": "Orchid 103",
+    "Type": "Suite",
+    "IsAvailable": true
+  },
+  {
+    "Id": 1548392017,
+    "Name": "Orchid 104",
+    "Type": "Single",
+    "IsAvailable": true
+  },
+  {
+    "Id": 1983746592,
+    "Name": "Orchid 105",
+    "Type": "Double",
+    "IsAvailable": true
+  },
+  {
+    "Id": 1129384756,
+    "Name": "Rose 201",
+    "Type": "Suite",
+    "IsAvailable": false
+  },
+  {
+    "Id": 2093847561,
+    "Name": "Rose 202",
+    "Type": "Single",
+    "IsAvailable": true
+  },
+  {
+    "Id": 1765438290,
+    "Name": "Rose 203",
+    "Type": "Double",
+    "IsAvailable": true
+  },
+  {
+    "Id": 1938475620,
+    "Name": "Rose 204",
+    "Type": "Suite",
+    "IsAvailable": false
+  },
+  {
+    "Id": 1348923765,
+    "Name": "Rose 205",
+    "Type": "Single",
+    "IsAvailable": true
+  },
+  {
+    "Id": 2103948576,
+    "Name": "Lily 301",
+    "Type": "Double",
+    "IsAvailable": true
+  },
+  {
+    "Id": 1673829104,
+    "Name": "Lily 302",
+    "Type": "Suite",
+    "IsAvailable": false
+  },
+  {
+    "Id": 2003847562,
+    "Name": "Lily 303",
+    "Type": "Single",
+    "IsAvailable": true
+  },
+  {
+    "Id": 1183746593,
+    "Name": "Lily 304",
+    "Type": "Double",
+    "IsAvailable": true
+  },
+  {
+    "Id": 2138475620,
+    "Name": "Lily 305",
+    "Type": "Suite",
+    "IsAvailable": true
+  },
+  {
+    "Id": 1564839201,
+    "Name": "Tulip 401",
+    "Type": "Single",
+    "IsAvailable": false
+  },
+  {
+    "Id": 1938475621,
+    "Name": "Tulip 402",
+    "Type": "Double",
+    "IsAvailable": true
+  },
+  {
+    "Id": 2093847562,
+    "Name": "Tulip 403",
+    "Type": "Suite",
+    "IsAvailable": true
+  },
+  {
+    "Id": 1129384757,
+    "Name": "Tulip 404",
+    "Type": "Single",
+    "IsAvailable": true
+  },
+  {
+    "Id": 1983746593,
+    "Name": "Tulip 405",
+    "Type": "Double",
+    "IsAvailable": false
+  }
+]

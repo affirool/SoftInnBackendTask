@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 1023456789,
+    "GuestName": "John Doe",
+    "RoomId": 1837461823,
+    "CheckInDate": "2025-09-27",
+    "CheckOutDate": "2025-10-04"
+  },
+  {
+    "Id": 1123456789,
+    "GuestName": "Jane Smith",
+    "RoomId": 1248937465,
+    "CheckInDate": "2025-10-10",
+    "CheckOutDate": "2025-10-17"
+  },
+  {
+    "Id": 1223456789,
+    "GuestName": "Alice Johnson",
+    "RoomId": 2019384756,
+    "CheckInDate": "2025-06-20",
+    "CheckOutDate": "2025-06-23"
+  },
+  {
+    "Id": 1323456789,
+    "GuestName": "Bob Brown",
+    "RoomId": 1548392017,
+    "CheckInDate": "2025-05-01",
+    "CheckOutDate": "2025-05-06"
+  },
+  {
+    "Id": 1423456789,
+    "GuestName": "Charlie Davis",
+    "RoomId": 1983746592,
+    "CheckInDate": "2025-10-10",
+    "CheckOutDate": "2025-10-15"
+  },
+  {
+    "Id": 1523456789,
+    "GuestName": "Eve Wilson",
+    "RoomId": 1129384756,
+    "CheckInDate": "2025-08-28",
+    "CheckOutDate": "2025-08-31"
+  },
+  {
+    "Id": 1623456789,
+    "GuestName": "Frank Thomas",
+    "RoomId": 2093847561,
+    "CheckInDate": "2025-06-26",
+    "CheckOutDate": "2025-06-27"
+  },
+  {
+    "Id": 1723456789,
+    "GuestName": "Grace Lee",
+    "RoomId": 1765438290,
+    "CheckInDate": "2025-06-15",
+    "CheckOutDate": "2025-06-19"
+  },
+  {
+    "Id": 1823456789,
+    "GuestName": "Hank Miller",
+    "RoomId": 1938475620,
+    "CheckInDate": "2025-09-23",
+    "CheckOutDate": "2025-09-26"
+  },
+  {
+    "Id": 1923456789,
+    "GuestName": "Ivy Anderson",
+    "RoomId": 1348923765,
+    "CheckInDate": "2025-09-06",
+    "CheckOutDate": "2025-09-12"
+  }
+]
